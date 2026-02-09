@@ -21,6 +21,9 @@ Le déploiement continu est un procédé dans lequel les fonctionnalités sont l
 ## Definition of Done (DoD)  
 Le Definition of Done (DoD) est une liste d'exigences ou de critères que chaque tâche ou user story doit respecter pour être considérée comme terminée. Elle garantit un haut niveau de qualité et une livraison conforme aux attentes.  
 
+## Definition of Ready (DoR)  
+La Definition of Ready (DoR) est une liste de critères qu'une User Story doit impérativement respecter avant de pouvoir être acceptée par l'équipe de développement lors du Sprint Planning.
+
 ## Déploiement continu  
 Le déploiement continu est une pratique d'ingénierie logicielle où les modifications validées dans le code sont automatiquement mises en production à l'aide de pipelines de déploiement automatisés. Cela permet de livrer fréquemment des fonctionnalités avec un minimum de risques.  
 
